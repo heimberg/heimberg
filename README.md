@@ -1,5 +1,5 @@
 # Hello! 👋 I'm Matthias
-I'm a passionate educator and lifelong learner currently imparting knowledge at [Technische Fachschule Bern](tfbern.ch) and on my journey diving deep into the world of Computer Science at [Fernfachhochschule Schweiz](ffhs.ch). At the moment I'm working on my Bachelor's thesis, focusing on LLMs in the educational context. Previously I studied physics, mathematics and astronomy.
+I'm a passionate educator and lifelong learner currently imparting knowledge at [Technische Fachschule Bern](https://tfbern.ch) and on my journey diving deep into the world of Computer Science at [Fernfachhochschule Schweiz](https://ffhs.ch). At the moment I'm working on my Bachelor's thesis, focusing on LLMs in the educational context. Previously I studied physics, mathematics and astronomy.
 
 ## 🌱 Interests
 - Education
